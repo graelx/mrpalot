@@ -1,0 +1,17 @@
+Mr. Palo T. en Escape de Mundo Palo
+-----------------------------------
+
+Argumento:
+Ayuda a Mr. Palo T. a viajar por Mundo Palo, esquivando a los enemigos, mientras recoges 10 palos para poder abrir la puerta del principio, y salir de Mundo Palo. No se por qué, pero necesitas palos para abrirla.
+También recoge las llaves para poder continuar por el mundo.
+Cuidate de no tocar los escudos, salvo que quieras terminar muy pronto.
+Cuidate también de los pinchos, que te restan vida.
+
+
+Controles
+Puedes jugar con teclado, Joystick Sinclair o Joystick Kempston. Estos dos últimos, lo supongo ;)
+
+Con teclado
+O : Izquierda
+P : Derecha
+SPACE : Salto
